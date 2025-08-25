@@ -1,1 +1,2 @@
 this is navbar
+bug fixed
