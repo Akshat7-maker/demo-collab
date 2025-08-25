@@ -2,6 +2,5 @@ file 1 content
 this change is from master
 
 this change is made by A
-this change is made BY b
-second change made by b
-third
+second change made by A
+third 
